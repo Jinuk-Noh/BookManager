@@ -61,3 +61,18 @@ C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.csproj.Gen
 C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.csproj.CopyComplete
 C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.exe
 C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.pdb
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\bin\Debug\BookManager.exe.config
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\bin\Debug\BookManager.exe
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\bin\Debug\BookManager.pdb
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.Form1.resources
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.Form2.resources
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.Form3.resources
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.exe
+C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.pdb
