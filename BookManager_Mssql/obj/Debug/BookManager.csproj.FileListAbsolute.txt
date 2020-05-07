@@ -1,0 +1,63 @@
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\bin\Debug\BookManager.exe
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\bin\Debug\BookManager.pdb
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\obj\Debug\BookManager.exe
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\obj\Debug\BookManager.pdb
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\KB\Desktop\20200416\BookManager_today\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\bin\Debug\BookManager.exe
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\bin\Debug\BookManager.pdb
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.exe
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.pdb
+C:\Users\KB\Desktop\20200417\BookManager_today\BookManager\obj\Debug\BookManager.Form3.resources
+C:\Users\KB\source\repos\c#\BookManager\bin\Debug\BookManager.exe.config
+C:\Users\KB\source\repos\c#\BookManager\bin\Debug\BookManager.exe
+C:\Users\KB\source\repos\c#\BookManager\bin\Debug\BookManager.pdb
+C:\Users\KB\source\repos\c#\BookManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\source\repos\c#\BookManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.Form1.resources
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.Form2.resources
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.Form3.resources
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.exe
+C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.pdb
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\bin\Debug\BookManager.exe.config
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\bin\Debug\BookManager.exe
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\bin\Debug\BookManager.pdb
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.Form1.resources
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.Form2.resources
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.Form3.resources
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.exe
+C:\Users\KB\source\repos\c#\BookManager 수업시간 초기\obj\Debug\BookManager.pdb
+C:\Users\KB\source\repos\c#\BookManager 0424금\bin\Debug\BookManager.exe.config
+C:\Users\KB\source\repos\c#\BookManager 0424금\bin\Debug\BookManager.exe
+C:\Users\KB\source\repos\c#\BookManager 0424금\bin\Debug\BookManager.pdb
+C:\Users\KB\source\repos\c#\BookManager 0424금\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\source\repos\c#\BookManager 0424금\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.Form1.resources
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.Form2.resources
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.Form3.resources
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.exe
+C:\Users\KB\source\repos\c#\BookManager 0424금\obj\Debug\BookManager.pdb
