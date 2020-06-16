@@ -36,20 +36,20 @@
         "name": "Nature of Code",
         "publisher": "한빛미디어",
         "page": 620,
-        "borrowedat": "2020년 4월 17일 금요일",
-        "isborrowed": "1",
-        "userid": 2,
-        "username": "윤인성"
+        "borrowedat": "0001년 1월 1일 월요일",
+        "isborrowed": "0",
+        "userid": 0,
+        "username": ""
       },
       {
         "isbn": "9788968480553",
         "name": "TopCoder 탑코더 알고리즘 트레이닝",
         "publisher": "한빛미디어",
         "page": 492,
-        "borrowedat": "0001년 1월 1일 월요일",
-        "isborrowed": "0",
-        "userid": 0,
-        "username": ""
+        "borrowedat": "2020년 6월 16일 화요일",
+        "isborrowed": "1",
+        "userid": 4,
+        "username": "김현수"
       },
       {
         "isbn": "9788998756260",

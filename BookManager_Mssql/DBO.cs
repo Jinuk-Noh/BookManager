@@ -87,6 +87,23 @@ namespace BookManager
             return data;
         }
 
+        public DataSet Query_SelectCount(String text, String str)
+        {
+            DataGridView data = new DataGridView();
+
+            ConnetDB();
+            SqlCommand sqlcommand = new SqlCommand();
+            sqlcommand.Connection = conn;
+            sqlcommand.CommandText = "select Count(*) from " + text +" " +str;
+            
+            SqlDataAdapter da = new SqlDataAdapter(sqlcommand);
+            DataSet ds = new DataSet();
+            da = new SqlDataAdapter(sqlcommand);
+            da.Fill(ds, text);
+            conn.Close();
+            return ds;
+        }
+
         //회원 추가
         public void Query_Insert(String table, String tb_id, String tb_name)
         {
@@ -209,13 +226,11 @@ namespace BookManager
             try
             {
                 ConnetDB();
-                string sqlcommand = $"update {table} set userid = null , username =null, isborrowed =0, borrwedat=@p4 where isbn = @p1";
+                string sqlcommand = $"update {table} set userid = null , username =null, isborrowed =0, borrwedat=null where isbn = @p1";
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = conn;
                 cmd.CommandType = CommandType.Text;
-                cmd.Parameters.AddWithValue("@p1", isbn);               
-                string borrwedat ="";
-                cmd.Parameters.AddWithValue("@p4", borrwedat);
+                cmd.Parameters.AddWithValue("@p1", isbn);                             
                 cmd.CommandText = sqlcommand;
                 cmd.ExecuteNonQuery();
                 conn.Close();

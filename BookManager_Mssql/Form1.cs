@@ -21,20 +21,7 @@ namespace BookManager
             // timer1.Enabled = false; <<나중에 주석 풀것
 
 
-
-            dataGridView_BookManager.CurrentCellChanged += DataGridView_BookManager_CurrentCellChanged;
-
-            //전체 도서 수
-            label_allBookCount.Text = (dataGridView_BookManager.Rows.Count).ToString();
-            //사용자 수
-            label_allUserCount.Text = (dataGridView_UserManager.Rows.Count).ToString();
-            //대출중인 도서의 수
-            label_allBorrowedBook.Text = DataManager.Books.Where((x) => x.isBorrowed).Count().ToString();
-            //연체중인 도서의 수
-            label_allDelayedBook.Text = DataManager.Books.Where((x) =>
-            {
-                return x.isBorrowed && x.BorrowedAt.AddDays(7) < DateTime.Now;
-            }).Count().ToString();
+           
 
             //데이터 그리드 설정
             dataGridView_BookManager.DataSource = dbo.Query_Select("bookinfo").DataSource;
@@ -42,6 +29,25 @@ namespace BookManager
             dataGridView_UserManager.DataSource = dbo.Query_Select("userinfo").DataSource;
             dataGridView_UserManager.DataMember = dbo.Query_Select("userinfo").DataMember;
 
+
+
+
+            dataGridView_BookManager.CurrentCellChanged += DataGridView_BookManager_CurrentCellChanged;
+           
+            //전체 도서 수
+            label_allBookCount.Text = (dataGridView_BookManager.Rows.Count).ToString();
+            
+            //사용자 수
+            label_allUserCount.Text = (dataGridView_UserManager.Rows.Count).ToString();
+
+            //대출중인 도서의 수
+            label_allBorrowedBook.Text=dbo.Query_SelectCount("bookinfo", " where isborrowed = 1").Tables[0].Rows[0][0].ToString();
+
+            //연체중인 도서의 수
+            label_allDelayedBook.Text = dbo.Query_SelectCount("bookinfo", "where DATEDIFF(day,borrwedat,CURRENT_TIMESTAMP)>7 ").Tables[0].Rows[0][0].ToString();
+            
+
+           
 
         }
 

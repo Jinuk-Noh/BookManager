@@ -50,7 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Book.cs" />
-    <Compile Include="DataManager.cs" />
     <Compile Include="DBO.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

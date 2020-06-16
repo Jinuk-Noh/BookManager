@@ -33,3 +33,17 @@ C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.csproj.GenerateRes
 C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.csproj.CopyComplete
 C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.exe
 C:\Users\KB\source\repos\c#\BookManager\obj\Debug\BookManager.pdb
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\bin\Debug\BookManager.exe.config
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\bin\Debug\BookManager.exe
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\bin\Debug\BookManager.pdb
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.Form1.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.Form2.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.Form3.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.exe
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Json\obj\Debug\BookManager.pdb

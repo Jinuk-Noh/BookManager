@@ -76,3 +76,17 @@ C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManag
 C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.csproj.CopyComplete
 C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.exe
 C:\Users\USER\Documents\GitHub\BookManager\BookManager_Mssql\obj\Debug\BookManager.pdb
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\bin\Debug\BookManager.exe.config
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\bin\Debug\BookManager.exe
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\bin\Debug\BookManager.pdb
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.Form1.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.Form2.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.Form3.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.Properties.Resources.resources
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.csproj.CopyComplete
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.exe
+C:\Users\KB\Desktop\포트폴리오\도서관리\BookManager\BookManager_Mssql\obj\Debug\BookManager.pdb
